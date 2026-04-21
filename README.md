@@ -25,8 +25,9 @@ Sigue estos pasos para levantar el entorno de desarrollo:
     npm run dev
     ```
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
-* **Frontend:** TypeScript, HTML, CSS, [Framework por definir - ej. React/Vite/Angular]
+* **Frontend:** Angular, TypeScript, HTML, SCSS/CSS
+* **Entorno de ejecución:** Node.js
 * **Backend (Integración):** Python / Django
 * **Cloud:** AWS
