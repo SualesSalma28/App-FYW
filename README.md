@@ -1,5 +1,5 @@
 # Find Your Work (FYW)
-## equisitos Previos
+## Requisitos Previos
 
 Asegúrate de tener instalado en tu entorno local:
 * [Node.js](https://nodejs.org/) (versión LTS recomendada)
